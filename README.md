@@ -11,4 +11,9 @@ Here I will put a list with links to the different <a href="https://www.codewars
 <li><a href="https://www.codewars.com/kata/56530b444e831334c0000020">Determine offspring sex based on genes XX and XY chromosomes</a></li>
 <li><a href="https://www.codewars.com/kata/54fdaa4a50f167b5c000005f">Unexpected parsing</a></li>
 <li><a href="https://www.codewars.com/kata/54edbc7200b811e956000556">Counting sheep...</a></li>
+<li><a href="https://www.codewars.com/kata/56f3f6a82010832b02000f38/java">Be Concise I - The Ternary Operator</a></li>
+<li><a href="https://www.codewars.com/kata/5865918c6b569962950002a1/java">All Star Code Challenge #18</a></li>
+<li><a href="https://www.codewars.com/kata/523b4ff7adca849afe000035/java">Function 1 - hello world</a></li>
+<li><a href="https://www.codewars.com/kata/56fa3c5ce4d45d2a52001b3c/java">Exclusive "or" (xor) Logical Operator</a></li>
+<li><a href="https://www.codewars.com/kata/55caf1fd8063ddfa8e000018/train/java">Arithmetic progression</a></li>
       </ul>

@@ -1,4 +1,5 @@
 import kyu_7.CountDig;
+import kyu_7.Progression;
 import kyu_8.Barycenter;
 import kyu_8.Counter;
 import kyu_8.Kata;
@@ -38,6 +39,10 @@ public class Main {
         int n =5750;
         int d= 0;
         System.out.println(CountDig.nbDig(n,d));
+
+        //Kata 7 kyu
+        //Arithmetic progression
+        System.out.println(Progression.arithmeticSequenceElements(1,1,10));
 
     }
 }
