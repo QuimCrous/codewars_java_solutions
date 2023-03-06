@@ -30,4 +30,13 @@ Here I will put a list with links to the different <a href="https://www.codewars
     <li><a href="https://www.codewars.com/kata/5866a58b9cbc02c4f8000cac/java">21 Sticks</a></li>
     <li><a href="https://www.codewars.com/kata/5b180e9fedaa564a7000009a/java">Fix String case</a></li>
     <li><a href="https://www.codewars.com/kata/56b0bc0826814364a800005a/java">Cyclops Numbers</a></li>
+    <li><a href="https://www.codewars.com/kata/63b84f54693cb10065687ae5/java">The 'spiraling' box</a></li>
+    <li><a href="https://www.codewars.com/kata/59e9f404fc3c49ab24000112/java">Ch4113ng3</a></li>
+    <li><a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/java">String ends with?</a></li>
+</ul>
+
+#### 6 Kyu
+
+<ul>
+    <li><a href="https://www.codewars.com/kata/5526fc09a1bbd946250002dc/java">Find the Party Outlier</a></li>
 </ul>
