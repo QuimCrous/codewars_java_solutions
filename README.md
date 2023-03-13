@@ -22,6 +22,11 @@ Here I will put a list with links to the different <a href="https://www.codewars
     <li><a href="https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097/java">Century From Year</a></li>
     <li><a href="https://www.codewars.com/kata/5545f109004975ea66000086/java">Is n divisible by x and y?</a></li>
     <li><a href="https://www.codewars.com/kata/5a805d8cafa10f8b930005ba/java">Find Nearest square number</a></li>
+    <li><a href="https://www.codewars.com/kata/5a023c426975981341000014/java">Third Angle of a Triangle</a></li>
+    <li><a href="https://www.codewars.com/kata/55c28f7304e3eaebef0000da/java">Unfinished Loop - Bug Fixing #1</a></li>
+    <li><a href="https://www.codewars.com/kata/5ce9c1000bab0b001134f5af/java">Quarter of the year</a></li>
+    <li><a href="https://www.codewars.com/kata/583710ccaa6717322c000105/java">Simple multiplication</a></li>
+    <li><a href="https://www.codewars.com/kata/51c8991dee245d7ddf00000e/java">Reversed Words</a></li>
 </ul>
 
 #### 7 Kyu
