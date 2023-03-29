@@ -42,6 +42,7 @@ Here I will put a list with links to the different <a href="https://www.codewars
     <li><a href="https://www.codewars.com/kata/63b84f54693cb10065687ae5/java">The 'spiraling' box</a></li>
     <li><a href="https://www.codewars.com/kata/59e9f404fc3c49ab24000112/java">Ch4113ng3</a></li>
     <li><a href="https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/java">String ends with?</a></li>
+    <li><a href="https://www.codewars.com/kata/588453ea56daa4af920000ca/java">Simple Fun #9: Array Packing</a></li>
 </ul>
 
 #### 6 Kyu

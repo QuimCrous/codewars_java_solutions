@@ -1,3 +1,4 @@
+import kyu_7.ArrayPacking;
 import kyu_7.CountDig;
 import kyu_7.Progression;
 import kyu_8.Barycenter;
@@ -43,6 +44,8 @@ public class Main {
         //Kata 7 kyu
         //Arithmetic progression
         System.out.println(Progression.arithmeticSequenceElements(1,1,10));
+
+        System.out.println(ArrayPacking.packArray(new int[] {24, 85, 0}));
 
     }
 }
